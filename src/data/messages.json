@@ -1,0 +1,22 @@
+[
+	{
+		"user": "Joseph",
+		"content": "Hello there!",
+		"id": 0
+	},
+	{
+		"user": "MikeX",
+		"content": "Give me three minutes with him and I swear...  You want a story? Write this down.",
+		"id": 1
+	},
+	{
+		"user": "MikeX",
+		"content": "Give me three minutes with him and I swear...  You want a story? Write this down.",
+		"id": 2
+	},
+	{
+		"user": "Joseph",
+		"content": "Give me three minutes with him and I swear...  You want a story? Write this down.",
+		"id": 3
+	}
+]
